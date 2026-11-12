@@ -12,6 +12,7 @@ Sources consulted (search, 2026-11-12): Just Security Early Edition 11 Nov; Open
 6. **China**: Trade surplus passed $1 trillion in the first 10 months of 2026 ($1.04T), record pace; October surplus $105.3bn (NYT via TFI).
 7. **Tech**: Anthropic targeting up to $3.5bn from Japanese investors in an IPO valued at roughly $1 trillion (Nexus). Nvidia CEO Jensen Huang faces bipartisan probes over Chinese spy ties; a senior Senate Republican urged him to resign; shares rebounded ~4% (Nexus, Citizen's Daily Brief).
 8. **Sport**: UWCL matchday 4, Wed 11 Nov: OL Lyonnes beat Juventus 6-0 (Katoto double, top scorer on 7 goals), OH Leuven 1-1 HB Køge (UEFA.com). Tuesday's games (10 Nov) not used as the day's sport.
+9. **Tech (added round 4, re-verified 2026-11-12)**: Nvidia chief Jensen Huang faced bipartisan calls for a federal probe and a demand from Sen. Kevin Cramer (R-ND, Senate Banking Committee) that he resign, over alleged Chinese spy ties (Forbes, 11 Nov 2026; Gizmodo; Indian Economic Observer, 11 Nov). Nvidia's board opened an independent investigation (retained Joon H. Kim / Wachtell); Huang had admitted an affair; Trump confirmed the FBI is looking into the matter. Used as "bipartisan calls for a federal probe and a senator's demand that he resign over alleged Chinese spy ties" — the board detail was cut for space.
 
 ## Deliberately left out (single-source or unverified)
 - Houthi attack on Aramco building in Riyadh; North Korea torpedo test (only in one Thai summary).

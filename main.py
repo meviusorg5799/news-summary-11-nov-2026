@@ -7,6 +7,11 @@ in summary.txt beside it to /output/entry.txt, following the kit's
 starter pattern. It runs fully offline and deterministically: two runs
 produce byte-identical output.
 
+Round 4 (resubmission): summary revised to 1,995 characters — added
+the Nvidia/Huang probe story, fixed the Strait of Hormuz phrasing,
+and split the closing Washington/economy paragraph in two so each
+paragraph carries one theme.
+
 Python 3.13, standard library only.
 """
 
